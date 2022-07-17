@@ -3,7 +3,7 @@ const mineflayer = require('mineflayer')
 const bot = mineflayer.createBot({
     host: 'localhost',
     port: 54869,
-    username: 'DrBath'
+    username: 'PalladiumGreen'
 })
 
 function lookAtPlayer() {
